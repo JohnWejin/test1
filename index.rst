@@ -1,36 +1,73 @@
-.. HPC wiki documentation master file, created by
-   sphinx-quickstart on Thu Feb 23 21:02:32 2017.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+Welcome to FEDerated GENeral “Omics”(FEDGEN) Cloud Testbed User documentation!
+================================================================================
 
-The HPC wiki
-************
+**About FEDerated GENeral “Omics” (FEDGEN) Cloud Testbed**
+-----------------------------------------------------------
 
-About the wiki
-==============
+FEDerated GENomics (FEDGEN) cloud testbed (FEDGEN Testbed) provides an experimental platform 
+for researchers as well as masters and Ph.D students working on Cloud Computing, Cloud Federation,
+Artificial Intelligence (AI) and Bioinformatics of Cancer(Breast and Prostate) and Malaria at CApIC-ACE
+and collaborating institutions. The collaborators are affiliated in Universities, Industries 
+and Governmental Institutions across West & Central Africa, Southern Africa
+and countries in other continents of the world.
 
-This wiki contains materials used by the :doc:`Linux and HPC workshop <tutorials>` held regularly at `Donders Centre for Cognitive Neuroimaging (DCCN) <http://donders.ru.nl>`_. The aim of this workshop is to provide researchers the basic knowledage to use the High-Performance Computing (HPC) cluster for data analysis. During the workshop, the wiki is used in combination with lectures and hands-on exercises; nevertheless, contents of the wiki are written in such that they can also be used for self-learning and references.
+Check out our `website <http://www.fedgen.net>`_ for further information.
 
-There are two major sessions in this wiki. :doc:`The Linux basic <docs/linux/index>` consists of the usage of the Linux operating system and an introduction to the Bash scripting language.  After following the session, you should be able to create text-based data files in a Linux system, and write a bash script to perform simple data analysis on the file.  :doc:`The cluster usage <docs/cluster_howto/index>` focuses on the general approach of running computations on the Torque/Moab cluster.  After learning this session, you should be knowing how to distribute data analysis computations to the Torque/Moab cluster at DCCN.
+.. note::
 
-Table of Contents
-=================
+   This project is under active development.
+
 
 .. toctree::
-   :maxdepth: 2
+   :caption: WELCOME
 
-   The HPC environment <docs/index.rst>
-   Linux tutorial <docs/linux/index.rst>
-   BASH tutorial <docs/bash/index.rst>
-   The HPC cluster <docs/cluster_howto/index.rst>
-   The project storage <docs/project_storage/index.rst>
-   Tutorials <docs/tutorials/index.rst>
+   welcome/About FEDGEN
+   FEDGEN Cloud Testbed Overview
+   Dashboard
+   others/Contact
+   Acknowledgements
 
 
-.. extra tables and indices
-    Indices and tables
-    ==================
+.. toctree::
+   :caption: FEDGEN Cloud Testbed RESOURCES
 
-    * :ref:`genindex`
-    * :ref:`modindex`
-    * :ref:`search`
+   FEDGEN HPC Layout
+   fedgen_hpc_resources/Cluster resources
+   fedgen_hpc_resources/GPU resources
+   fedgen_hpc_resources/Storage
+
+
+
+.. toctree::
+   :maxdepth: 1
+   :caption: GETTING STARTED
+
+   access/Obtaining a FEDGEN HPC account
+   access/Connect to the Cluster
+   access/Working With An SSH Client
+   access/Introduction to MobaXterm
+   access/SSH connection via VS Code
+   others/Linux command line
+   others/Making your files safe
+   others/Transferring files to and from the clusters
+   
+   
+
+.. toctree::
+   :caption: SCHEDULING JOBS
+
+   job_scheduling/Resource Manager
+   job_scheduling/SLURM Workload ManagerMAIN
+   job_scheduling/Scheduling Jobs
+   job_scheduling/Job script examples
+   job_scheduling/Interactive jobs
+   job_scheduling/Managing and Monitoring jobs
+   job_scheduling/Going Parallel
+
+
+
+.. toctree::
+   :caption: APPLICATIONS
+
+   others/Jupyter
+   job_scheduling/Applications
