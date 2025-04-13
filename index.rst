@@ -31,10 +31,10 @@ Check out our `website <http://www.fedgen.net>`_ for further information.
 .. toctree::
    :caption: FEDGEN Cloud Testbed RESOURCES
 
-   FEDGEN HPC Layout
-   fedgen_hpc_resources/Cluster resources
-   fedgen_hpc_resources/GPU resources
-   fedgen_hpc_resources/Storage
+   FEDGEN HPC Layout <bash/cheatsheet.rst>
+   Testbed Resources <bash/exercise_programming.rst>
+   Testbed Usage Policy<bash/index.rst>
+   
 
 
 
@@ -42,28 +42,8 @@ Check out our `website <http://www.fedgen.net>`_ for further information.
    :maxdepth: 1
    :caption: GETTING STARTED
 
-   access/Obtaining a FEDGEN HPC account
-   access/Connect to the Cluster
-   access/Working With An SSH Client
-   access/Introduction to MobaXterm
-   access/SSH connection via VS Code
-   others/Linux command line
-   others/Making your files safe
-   others/Transferring files to and from the clusters
-   
-   
-
-.. toctree::
-   :caption: SCHEDULING JOBS
-
-   job_scheduling/Resource Manager
-   job_scheduling/SLURM Workload ManagerMAIN
-   job_scheduling/Scheduling Jobs
-   job_scheduling/Job script examples
-   job_scheduling/Interactive jobs
-   job_scheduling/Managing and Monitoring jobs
-   job_scheduling/Going Parallel
-
+   Obtaining a FEDGEN HPC account<bash/start.rst>
+   Connect to your Resources<figures/index.rst>
 
 
 .. toctree::
