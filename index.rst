@@ -37,7 +37,6 @@ Check out our `website <http://www.fedgen.net>`_ for further information.
    
 
 
-
 .. toctree::
    :maxdepth: 1
    :caption: GETTING STARTED
@@ -46,8 +45,3 @@ Check out our `website <http://www.fedgen.net>`_ for further information.
    Connect to your Resources<figures/index.rst>
 
 
-.. toctree::
-   :caption: APPLICATIONS
-
-   others/Jupyter
-   job_scheduling/Applications
