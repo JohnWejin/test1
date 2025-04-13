@@ -1,7 +1,7 @@
 FEDGEN Testbed Layout
 --------------------
 
-The FEDGEN Cloud Testbed is a federation made up of four (4) interconnected computing node located at Covenant University, Landmark University, Afe Babalola University, and UGLPA University in Democratic Republic of Congo (DRC). Each computing node/region consists of six (6) Dell Powered Edge R740 and R750 servers. In a typical workflow, users get connected to their FEDGEN cloud testbed resource through ssh. This HPC layout is in the diagram below.
+The FEDGEN Cloud Testbed is a federation made up of four (4) interconnected computing node located at Covenant University, Landmark University, Afe Babalola University, and UGLPA University in Democratic Republic of Congo (DRC). Each computing node/region consists of six (6) Dell Powered Edge R740 and R750 servers. In a typical workflow, users get connected to their FEDGEN cloud testbed resource through ssh. The Testbed layout is shown in the diagram below.
 
 |FEDGEN HPC Flow|
 
