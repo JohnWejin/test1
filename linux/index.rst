@@ -1,6 +1,4 @@
-.. _linux-tutorial:
-
-
+Connecting to your Computational Resource
 **************
 Once you have received an email confirming the availability of your resource, you can begin using it. 
 To begin using the resource, you need to be aware of the following;
