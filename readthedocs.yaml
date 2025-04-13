@@ -2,7 +2,7 @@ version: 2
 
 python:
    install:
-     - requirements: docs/requirements.txt
+     - requirements: bash/requirements.txt
 
 sphinx:
    configuration: conf.py
