@@ -32,8 +32,8 @@ Check out our `website <http://www.fedgen.net>`_ for further information.
    :caption: FEDGEN Cloud Testbed RESOURCES
 
    FEDGEN HPC Layout <bash/cheatsheet.rst>
-   Testbed Resources <bash/exercise_programming.rst>
-   Testbed Usage Policy<bash/index.rst>
+   TESTBED RESOURCES <bash/exercise_programming.rst>
+   TESTBEB ACCEPTABLE USE POLICY <bash/index.rst>
    
 
 
@@ -41,7 +41,7 @@ Check out our `website <http://www.fedgen.net>`_ for further information.
    :maxdepth: 1
    :caption: GETTING STARTED
 
-   Obtaining a FEDGEN HPC account<bash/start.rst>
-   Connect to your Resources<figures/index.rst>
+   Obtaining a FEDGEN HPC Account <bash/start.rst>
+   Connect to your Resources <figures/index.rst>
 
 
