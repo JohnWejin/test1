@@ -24,4 +24,4 @@ Routers
 Each region is equipped with a Cisco router for connectivity and access of resources on the cloud testbed
 
 
-.. |FEDGEN HPC Flow| image:: main/hpc.png
+.. |FEDGEN HPC Flow| image:: hpc.png
