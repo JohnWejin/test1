@@ -12,7 +12,7 @@ General Terms and Conditions
 •	Sharing of accounts is strictly prohibited.
 •	FEDGEN testbed resources are strictly for research purposes. Commercial use is highly prohibited
 •	Access to the testbed resource is to be via Secure Shell protocol (SSH).
-•	FEDGEN Testbed does not guarantee the reliability of its storage; it is the users' responsibility to make copies of important data.
+•	FEDGEN Testbed does not guarantee the reliability of its user's data; it is the users' responsibility to make copies of important data.
 •	Users acknowledge that regular maintenance and downtime need to be scheduled and communicated in advance.
     Users acknowledge that unscheduled downtime may be required to fix unforeseen issues and to apply critical security patches.
 •	Users agree to acknowledge FEDGEN Cloud Testbed in publications, presentations, and other media and scholarship. The following wording is recommended: “This research used the FEDGEN Cloud Testbed at the Covenant University, Ota, Nigeria.”
